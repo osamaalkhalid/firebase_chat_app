@@ -2,7 +2,7 @@ name: chat_firestore
 description: A new Flutter project.
 author: osama alkhalid <osamaalkhalid9@gmail.com>
 version: 0.0.1
-homepage:
+homepage: https://github.com/osamaalkhalid/firebase_chat_app/tree/main/chat_firestore
 
 environment:
   sdk: ">=2.17.5 <3.0.0"
